@@ -1,0 +1,12 @@
+
+Parseamos el csv
+
+Construimos una lista
+
+Pasamos al siguiente, dos opciones
+	a) no está en la lista alguien pero el primero si --> se añade el otro
+	b) no está nadie --> nueva lista
+
+Dentro de las listas terminadas
+	1. B.F todas las permutaciones
+	2. Sumamos en función de si están en la lista a o no y restamos en función de eso
